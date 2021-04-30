@@ -10,4 +10,4 @@ End point exmaple:
 1. to get metdata
   http://host:port/v1/metadata/{sheetid}
 2. to get data of specific sheetid and sheetname
-  http://localhost:8080/v1/data/{sheetid}/{sheetname}
+  http://host:port/v1/data/{sheetid}/{sheetname}
